@@ -1,6 +1,7 @@
 [![Code Climate](https://codeclimate.com/github/geoffharcourt/moneyball/badges/gpa.svg)](https://codeclimate.com/github/geoffharcourt/moneyball)
-# Moneyball
 [![Build Status](https://travis-ci.org/geoffharcourt/moneyball.svg?branch=master)](https://travis-ci.org/geoffharcourt/moneyball)
+
+# Moneyball
 
 Moneyball parses MLB Gameday's play-by-play information to pull useful
 quantitative and qualitative information out of the data feed. Moneyball can
