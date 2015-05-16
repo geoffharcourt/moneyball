@@ -1,3 +1,5 @@
+require "nokogiri"
+
 require "moneyball/version"
 require "moneyball/parser"
 require "moneyball/batted_ball_location_extractor"
